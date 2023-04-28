@@ -9,10 +9,10 @@ import week_2 from "../../Assets/Timelines/week_2.png";
 import week_3 from "../../Assets/Timelines/week_3.png";
 import week_4 from "../../Assets/Timelines/week_4.png";
 import week_5 from "../../Assets/Timelines/week_5.png";
-// import week_6 from "../../Assets/Timelines/week_6.png";
-// import week_7 from "../../Assets/Timelines/week_7.png";
-// import week_8 from "../../Assets/Timelines/week_8.png";
-// import week_9 from "../../Assets/Timelines/week_9.png";
+import week_6 from "../../Assets/Timelines/week_6.png";
+import week_7 from "../../Assets/Timelines/week_7.png";
+import week_8 from "../../Assets/Timelines/week_8.png";
+import week_9 from "../../Assets/Timelines/week_9.png";
 // import week_10 from "../../Assets/Timelines/week_10.png";
 // import week_11 from "../../Assets/Timelines/week_11.png";
 // import week_12 from "../../Assets/Timelines/week_12.png";
@@ -81,37 +81,37 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_6}
               isBlog={false}
               title="Week 6"
-              description="comming soon..."
+              description="I bought a new MacBook! I think it's better because I'm coding on my MacBook"
             />
           </Col>
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_7}
               isBlog={false}
               title="Week 7"
-              description="comming soon..."
+              description="We're bragging about the delicious coffee Sonya bought us~! Actually, Sonya came late because she overslept "
             />
           </Col>
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_8}
               isBlog={false}
               title="Week 8"
-              description="comming soon..."
+              description="Drawing time! Drawing the team members. I'm an artist."
             />
           </Col>
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_9}
               isBlog={false}
               title="Week 9"
-              description="comming soon..."
+              description="Taking a surprise photo while coding! You were surprised, right?"
             />
           </Col>
 
