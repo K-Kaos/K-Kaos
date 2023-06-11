@@ -13,12 +13,12 @@ import week_6 from "../../Assets/Timelines/week_6.png";
 import week_7 from "../../Assets/Timelines/week_7.png";
 import week_8 from "../../Assets/Timelines/week_8.png";
 import week_9 from "../../Assets/Timelines/week_9.png";
-// import week_10 from "../../Assets/Timelines/week_10.png";
-// import week_11 from "../../Assets/Timelines/week_11.png";
-// import week_12 from "../../Assets/Timelines/week_12.png";
-// import week_13 from "../../Assets/Timelines/week_13.png";
-// import week_14 from "../../Assets/Timelines/week_14.png";
-// import week_15 from "../../Assets/Timelines/week_15.png";
+import week_10 from "../../Assets/Timelines/week_10.png";
+import week_11 from "../../Assets/Timelines/week_11.png";
+import week_12 from "../../Assets/Timelines/week_12.png";
+import week_13 from "../../Assets/Timelines/week_13.png";
+import week_14 from "../../Assets/Timelines/week_14.png";
+import week_15 from "../../Assets/Timelines/week_15.png";
 //import suicide from "../../Assets/Projects/suicide.png";
 
 
@@ -117,7 +117,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_10}
               isBlog={false}
               title="Week 10"
               description="comming soon..."
@@ -126,7 +126,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_11}
               isBlog={false}
               title="Week 11"
               description="comming soon..."
@@ -135,7 +135,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_12}
               isBlog={false}
               title="Week 12"
               description="comming soon..."
@@ -144,7 +144,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_13}
               isBlog={false}
               title="Week 13"
               description="comming soon..."
@@ -153,7 +153,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_14}
               isBlog={false}
               title="Week 14"
               description="comming soon..."
@@ -162,7 +162,7 @@ function Timelines() {
 
           <Col md={4} className="timeline-card">
             <TimelineCard
-              imgPath={notyet}
+              imgPath={week_15}
               isBlog={false}
               title="Week 15"
               description="comming soon..."
