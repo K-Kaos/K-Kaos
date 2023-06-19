@@ -120,7 +120,7 @@ function Timelines() {
               imgPath={week_10}
               isBlog={false}
               title="Week 10"
-              description="comming soon..."
+              description="It is a screen that created a type test using Chat GPT. Hahaha. Looks like a lot of modifications are needed, doesn't it?"
             />
           </Col>
 
@@ -129,7 +129,7 @@ function Timelines() {
               imgPath={week_11}
               isBlog={false}
               title="Week 11"
-              description="comming soon..."
+              description="I took a picture with a new angle to show my team members coding hard!"
             />
           </Col>
 
@@ -138,7 +138,7 @@ function Timelines() {
               imgPath={week_12}
               isBlog={false}
               title="Week 12"
-              description="comming soon..."
+              description="This is the result screen obtained through the type test. My group discussed what '콘이 웃긴 무지' is."
             />
           </Col>
 
@@ -147,7 +147,7 @@ function Timelines() {
               imgPath={week_13}
               isBlog={false}
               title="Week 13"
-              description="comming soon..."
+              description="We went to a cafeteria together and worked hard on coding Let's not forget to express K of K-Kaos with our right hand!"
             />
           </Col>
 
@@ -156,7 +156,7 @@ function Timelines() {
               imgPath={week_14}
               isBlog={false}
               title="Week 14"
-              description="comming soon..."
+              description="We went to a cafeteria at school, but the school Wi-Fi didn't work! But we need to pay for the cafe, guys!"
             />
           </Col>
 
@@ -165,7 +165,7 @@ function Timelines() {
               imgPath={week_15}
               isBlog={false}
               title="Week 15"
-              description="comming soon..."
+              description="We'm done with the final presentation of KAKAQ! You did a great job for 15 weeks"
             />
           </Col>
         </Row>
