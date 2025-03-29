@@ -92,7 +92,6 @@ function Member() {
               name="이소현"
               major="Software"
               idNum="202035362"
-              phoneNum="010-2199-8655"
               email="siso1204@gachon.ac.kr"
               ghLink="https://github.com/Esoh124"
             />
